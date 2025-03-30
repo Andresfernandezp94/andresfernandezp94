@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning for Frontend Developer
+🌱 I'm currently studying frontend development
 <!--
 **Andresfernandezp94/andresfernandezp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
